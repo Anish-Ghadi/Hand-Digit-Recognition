@@ -1,4 +1,3 @@
-# Hand-Digit-Recognition
 # Digit Recognition using CNN
 
 This project implements a Convolutional Neural Network (CNN) using TensorFlow to recognize handwritten digits.
